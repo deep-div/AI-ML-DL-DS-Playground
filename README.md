@@ -12,7 +12,7 @@ Each file contains standalone code — no theory dumps, just code that works.
 - ✅ Clean, beginner-friendly implementations
 - ✅ Focused on practical use, not academic theory
 
-
+ 
 ## 🎯 Goal
 
 This repository is built to:
