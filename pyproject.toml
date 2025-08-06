@@ -1,0 +1,13 @@
+[project]
+name = "ai-ml-dl-ds-playground"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "env>=0.1.0",
+    "geopy>=2.4.1",
+    "langchain-google-genai>=2.1.9",
+    "langgraph>=0.6.3",
+    "requests>=2.32.4",
+]
